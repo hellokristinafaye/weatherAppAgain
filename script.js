@@ -30,6 +30,10 @@ searchBtn.addEventListener("click", () => {
     
 })
 
+// const defaultCity =document.querySelector('searchBox')
+    
+
+// function lastCity = 
 
 
 
